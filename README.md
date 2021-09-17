@@ -1,3 +1,3 @@
 # Blog
 Responsive Web Site about Blog
-https://khalel98.github.io/Data-Process/
+https://khalel98.github.io/Blog/
